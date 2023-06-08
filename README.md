@@ -52,7 +52,7 @@ For all integer used in javascript, needs to change object (id) to string (.tost
 ### Gauge Chart
     - The code to create gauge chart is created under a function called function gaugechart(id).
     - From the datasets, extract the "wfreq" as washed frequency values under metadata
-    - To create gauge charts, gauge values and pointer needs to be split into 9 sections with 9 labels text inside the gauge
+    - To create gauge charts, modify gauge values and pointer and split them into 9 sections with 9 labels text inside the gauge
     - Gauge pointer needs to start from clockwise direction
 
 ### Demographic
