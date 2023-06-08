@@ -10,11 +10,11 @@ This challenge involves making 3 separate graphs, 1 table and 1 dropdown OTU ids
 
 The result of this challenge can be seen in the Chrome webpage after this repository is been deployed. 
 
-### Advantages of Javascript:
+#### *Advantages of Javascript:*
  - Within good network covergae, javascript code can run very fast within the Browser
  - Java enhances user interfaces as it can provides many interactive experience such as drop down menu as in this challenge.
  
-### Disadvantages of Javascript:
+#### *Disadvantages of Javascript:*
 - Can be quite complex, not very easy to understand
 - Can only be used in major popular Browsers such as Google Chrome
 
@@ -30,6 +30,7 @@ D3 function:
 d3.json(url).then(function(){});
 
 (id):
+
 For all integer used in javascript, needs to change object (id) to string (.tostring()) when doing a comparison value
 
 ### Horizontal Bar Chart
