@@ -19,6 +19,9 @@ The result of this challenge can be seen in the Chrome webpage after this reposi
 - Can only be used in major popular Browsers such as Google Chrome
 
 ## Project Method
+The Javascript code is under "app.js" within static file
+
+
 Dataset given is in Json format.Javascript D3 library is to be used to open the JSON link.
 
 JSON link:
