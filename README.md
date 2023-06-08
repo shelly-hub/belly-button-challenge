@@ -76,4 +76,19 @@ For all integer used in javascript, needs to change object (id) to string (.tost
 - This function name is directly under HTML element "on change = optionChanged(this.value)" to execute drop down menu
 
 ## References
+Bubble Charts in JavaScript.(). Plotly| Graphing Libraries. Retrieved on: 01/06/2023, from <https://plotly.com/javascript/bubble-charts/>
+Plotly Experiemnts - ScatterPlots. (14/03/2019). Towards Data Science. Retrieved on: 01/06/2023, from <https://towardsdatascience.com/plotly-experiments-scatterplots-e08f16fb1a17>
+Animations on gauge needle  - ascotto (1/04/2017). Plotly. Retrieved on: 02/06/2023, from<https://community.plotly.com/t/animations-on-gauge-needle/5804>
+Setting the Title, Legend Entries, and Axis Titles in JavaScript.(2023). plotly. Retrieved on: 02/06/2023, from<https://plotly.com/javascript/figure-labels/>
 
+Array.prototype.find().(2023).mdn web docs. Retrieved on: 02/06/2023, from<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find>
+
+How to iterate (keys, values) in JavaScript? [duplicate] - WELCOME TO 2020 *Drools in ES6*(2/4/2020). Stack Overflow. Retrieved on 06/06/2023, from<https://stackoverflow.com/questions/34913675/how-to-iterate-keys-values-in-javascript>
+
+'data.forEach is not a function' when loading csv in d3.js(27/08/2020).Stack Overflow. Retrieved on: 07/06/2023, from <https://stackoverflow.com/questions/63624508/data-foreach-is-not-a-function-when-loading-csv-in-d3-js>
+
+Javascript onchange with select element(05/01/2018). Stack Overflow. Retrieved on: 07/06/2023, from <https://stackoverflow.com/questions/48107324/javascript-onchange-with-select-element>
+
+How to select a value in a select dropdown with JavaScript?.(15/11/2011). Stack Overflow. Retrieved on: 08/06/2023, from<https://stackoverflow.com/questions/8140862/how-to-select-a-value-in-a-select-dropdown-with-javascript>
+JavaScript data types and data structures  - Beware of "stringly-typing" your code!.(2023). mdn web docs. Retrieved on: 09/06/2023, from<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#type_coercion>
+JavaScript String toString(2023).W3 Schools.Retrieved on: 09/06/2023, from<https://www.w3schools.com/jsref/jsref_tostring_string.asp>
