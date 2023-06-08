@@ -29,6 +29,9 @@ D3 function:
 
 d3.json(url).then(function(){});
 
+(id):
+For all integer used in javascript, needs to change object (id) to string (.tostring()) when doing a comparison value
+
 ### Horizontal Bar Chart
  - The code to create bar chart is created under a function called function barchart(id).
  - From the datasets, extract "otu_ids" as y- axis, "sample_values" as x-axis, and "otu_labels" as labels in hovertext under samples
