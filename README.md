@@ -77,7 +77,7 @@ For all integer used in javascript, needs to change object (id) to string (.tost
     - This function name is directly under HTML element "on change = optionChanged(this.value)" to execute drop down menu
 
 ### Deployment
- - Go to Chrome page, insert: (shelly-hub.github.io/belly-button-challenge) to see output dashboard
+- Go to Chrome page, insert:  **shelly-hub.github.io/belly-button-challenge**  to see output dashboard
 
 ## References
 Bubble Charts in JavaScript.(). Plotly| Graphing Libraries. Retrieved on: 01/06/2023, from <https://plotly.com/javascript/bubble-charts/>
